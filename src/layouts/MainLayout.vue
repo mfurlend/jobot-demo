@@ -36,7 +36,7 @@
       <q-scroll-area style="height: calc(100% - 150px);">
         <q-list class="text-white">
           <q-item-label header>Menu</q-item-label>
-          <q-item clickable to="/dashboard/BTCUSDT" exact active-class="text-purple-3">
+          <q-item clickable to="/BTCUSDT" exact active-class="text-purple-3">
             <q-item-section avatar>
               <img class="crypto-icon" src="https://cryptoicon-api.vercel.app/api/icon/btc"/>
             </q-item-section>
@@ -44,7 +44,7 @@
               <q-item-label>BTCUSDT</q-item-label>
             </q-item-section>
           </q-item>
-          <q-item clickable to="/dashboard/ETHUSDT" exact active-class="text-purple-3">
+          <q-item clickable to="/ETHUSDT" exact active-class="text-purple-3">
             <q-item-section avatar>
               <img class="crypto-icon" src="https://cryptoicon-api.vercel.app/api/icon/eth"/>
             </q-item-section>
@@ -53,7 +53,7 @@
             </q-item-section>
           </q-item>
 
-          <q-item clickable to="/dashboard/BNBUSDT" exact active-class="text-purple-3">
+          <q-item clickable to="/BNBUSDT" exact active-class="text-purple-3">
             <q-item-section avatar>
               <img class="crypto-icon" src="https://cryptoicon-api.vercel.app/api/icon/bnb"/>
             </q-item-section>
@@ -61,7 +61,7 @@
               <q-item-label>BNBUSDT</q-item-label>
             </q-item-section>
           </q-item>
-          <q-item clickable to="/dashboard/DOGEUSDT" exact active-class="text-purple-3">
+          <q-item clickable to="/DOGEUSDT" exact active-class="text-purple-3">
             <q-item-section avatar>
               <img class="crypto-icon" src="https://cryptoicon-api.vercel.app/api/icon/doge"/>
             </q-item-section>
@@ -70,7 +70,7 @@
             </q-item-section>
           </q-item>
 
-          <q-item clickable to="/dashboard/XRPUSDT" exact active-class="text-purple-3">
+          <q-item clickable to="/XRPUSDT" exact active-class="text-purple-3">
             <q-item-section avatar>
               <img class="crypto-icon" src="https://cryptoicon-api.vercel.app/api/icon/xrp"/>
             </q-item-section>
@@ -79,7 +79,7 @@
             </q-item-section>
           </q-item>
 
-          <q-item clickable to="/dashboard/DOTUSDT" exact active-class="text-purple-3">
+          <q-item clickable to="/DOTUSDT" exact active-class="text-purple-3">
             <q-item-section avatar>
               <img class="crypto-icon" src="https://cryptoicon-api.vercel.app/api/icon/dot"/>
             </q-item-section>
@@ -88,7 +88,7 @@
             </q-item-section>
           </q-item>
 
-          <q-item clickable to="/dashboard/UNIUSDT" exact active-class="text-purple-3">
+          <q-item clickable to="/UNIUSDT" exact active-class="text-purple-3">
             <q-item-section avatar>
               <img class="crypto-icon" src="https://cryptoicon-api.vercel.app/api/icon/uni"/>
             </q-item-section>
@@ -96,7 +96,7 @@
               <q-item-label>UNIUSDT</q-item-label>
             </q-item-section>
           </q-item>
-          <q-item clickable to="/dashboard/BCHUSDT" exact active-class="text-purple-3">
+          <q-item clickable to="/BCHUSDT" exact active-class="text-purple-3">
             <q-item-section avatar>
               <img class="crypto-icon" src="https://cryptoicon-api.vercel.app/api/icon/bch"/>
             </q-item-section>
