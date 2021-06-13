@@ -2,6 +2,9 @@
 
 A demo for Jobot
 
+![Screenshot](images/screenshot.png)
+
+
 ## Install the dependencies
 ```bash
 npm install
@@ -24,3 +27,5 @@ quasar build
 
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://v2.quasar.dev/quasar-cli/quasar-conf-js).
+
+
