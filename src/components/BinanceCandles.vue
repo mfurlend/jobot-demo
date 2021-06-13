@@ -17,7 +17,7 @@
 
   </div>
   <card-base>
-    <div v-if="!error" style="height: 85vh">
+    <div v-if="!error" style="height: 70vh">
       <apexchart type="candlestick" :options="chartOptions" :series="series" height="100%" ref="chart"></apexchart>
     </div>
     <div v-if="error" id="error-container">
