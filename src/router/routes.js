@@ -5,7 +5,7 @@ const routes = [
     component: () => import('layouts/MainLayout.vue'),
     children: [
       { path: '', redirect: '/BTCUSDT' },
-      { path: '/:symbol', component: () => import('pages/Index.vue'), meta: { skeleton: true }, props: true},
+      { path: '/:symbol', component: () => import('pages/Index.vue'), meta: { skeleton: true }, props: (route) => route.params },
     ]
   },
 
